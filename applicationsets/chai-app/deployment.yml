@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: chai-app
-        image: salmandevops290/wanderlust-frontend-beta:latest
+        image: salmandevops290/wanderlust-frontend-beta:v3
         ports:
         - containerPort: 80
         env:
